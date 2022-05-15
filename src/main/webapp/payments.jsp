@@ -12,12 +12,12 @@
 <script src="Components/payments.js" type="text/javascript"></script>
 <style type="text/css">
 #divEmployersGrid{   padding-top:20px; padding-left: 50px; background-color:#b2b9d1;}
-.frm{ padding-top:20px; padding-right: 50px; background-color:#bdb65b; border-right: 1px solid grey; }
+.frm{ padding-top:20px; padding-right: 50px; background-color:#b7c4c4; border-right: 1px solid grey; }
 </style>
 <title>Payment Management</title>
 </head>
-<body style="background-color:#a19a38;">
-	<div class="container" style="box-shadow: 1px 15px 30px #404037; background-color:#dbd472;" >
+<body style="background-color:#9fd1cf;">
+	<div class="container" style="box-shadow: 1px 15px 30px #404037; background-color:#aebfbe;" >
 	<h1 style="margin:20px 0px 20px 400px; padding-top: 10px;">Payment Management</h1>
 	<hr>
 	<div class="row">
